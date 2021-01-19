@@ -1,4 +1,4 @@
-# two parameters: file name and read it
+# two parameters: file name and "r" to read it
 file = open("../myfile.txt", "r")
 count = 0
 
