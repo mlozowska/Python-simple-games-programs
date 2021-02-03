@@ -27,5 +27,6 @@ The reason is to **keep improving my _Python skills_**
 12. ## Digital Clock
 Based on [geeksforgeeks article](https://www.geeksforgeeks.org/python-create-a-digital-clock-using-tkinter/) I've created a Digital clock using Tkinter.
 
-
+13. Weather Forecast 
+I extracted weather data from web page: www.weather.com using weather wrapper
 
