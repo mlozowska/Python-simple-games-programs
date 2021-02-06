@@ -1,6 +1,6 @@
 I've created several mini-projects following Udemy courses, Youtube tutorials and books about Python.
 
-The reason is to **keep improving my _Python skills_** 
+The reason is to **keep improving my Python skills** 
 
 1. ## Fortune Teller
 
@@ -8,7 +8,7 @@ The reason is to **keep improving my _Python skills_**
 
 3. ## Python quiz
 
-4. ## Rock papaer scissors
+4. ## Rock paper scissors
 
 5. ## Odd Even
 
@@ -28,5 +28,5 @@ The reason is to **keep improving my _Python skills_**
 Based on [geeksforgeeks article](https://www.geeksforgeeks.org/python-create-a-digital-clock-using-tkinter/) I've created a Digital clock using Tkinter.
 
 13. ## Weather Forecast (web scraping)
-I extracted weather data from web page: www.weather.com using weather wrapper
+Using the web page www.weather.com with the [forecast for Warsaw](https://weather.com/en-IN/weather/tenday/l/a8b0daa43d13b260354967e7b6792eae37e9924dee035d82922e416e63de4051), I have extracted 10-Day weather data, using weather wrapper. 
 
